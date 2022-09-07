@@ -1,5 +1,5 @@
 # GraphQL Demo
-a dmeo music player web app to demonstrate how to use GraphQL and which library has better support for interacting with GraphQL
+a demo music player web app to demonstrate how to use GraphQL and which library has better support for interacting with GraphQL
 
 ### Frontend
 [demo-graphql-frontend](https://github.com/IsaacOrzDev/demo-graphql-frontend)
